@@ -1,0 +1,44 @@
+#include <stdio.h>
+int main()
+{
+	int a[100][2],i,j,k,fuck,le,ri;
+	while(scanf("%d",&i)==1)
+	{
+		if(i==0)
+		{
+			break;
+		}
+		for(j=0;j<i;j++)
+		{
+			for(k=0;k<2;k++)
+			{
+				scanf("%d",&a[j][k]);
+			}
+		}
+		for(j=0;j<i;j++)
+		{
+			for(k=j+1;k<i;k++)
+			{
+				if(a[j][1]>a[k][1])
+				{
+					le=a[j][0];
+					ri=a[j][1];
+					a[j][0]=a[k][0];
+					a[j][1]=a[k][1];
+					a[k][0]=le;
+					a[k][1]=ri;
+				}
+			}
+		}
+		fuck=0,le=0;
+		for(j=0;j<i;j++)
+		{
+			if(fuck<=a[j][0])
+			{
+				fuck=a[j][1];
+				le++;
+			}
+		}
+		printf("%d\n",le);
+	}
+}
