@@ -1,0 +1,164 @@
+<html><head><meta name=keywords content="HDOJ ACM ICPC OJ C C++ Pascal Java"><meta http-equiv=Content-Type content="text/html;charset=gb2312"><link rel=stylesheet type=text/css href="/images/global.css" media=all><link rel=stylesheet type=text/css href="/css/diyinhead.css" media=all><link rel=stylesheet type=text/css href="/css/webinhead.css" media=all><script src="/js/global.js" type=text/javascript></script><script src="/js/register.js" type=text/javascript></script><script src="/js/MathJax/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script><title>Problem Set</title></head><body >
+<a name=top></a>
+<table align=center cellSpacing=0 cellPadding=0 width=980 border=0 style="word-wrap:break-word">
+<tr>
+	<td style="border:#1A5CC8 1px solid" align=center width=100%>
+		<a href="/">
+			<img src="/images/banner.jpg" width="100%" height=116 border=0>
+		</a>
+	</td>
+</tr>
+<tr>
+	<td style="border:#1A5CC8 1px solid">
+	<table cellSpacing=0 cellPadding=1 width="979px">
+	<tr bgcolor=#1A5CC8 align=center class=banner height=25>
+		<td>Online Judge</td>
+		<td>Online Exercise</td>
+		<td>Online Teaching</td>
+		<td>Online Contests</td>
+	<td>Exercise Author</td>
+	</tr>
+	<tr style="font-size:16px" align=center>
+		<td width=20% valign=top>
+		<a href="/faq.php" style="text-decoration: none">F.A.Q</a><br>
+		<a href="/friends" style="text-decoration: none">Hand In Hand</a><br>
+		<a href="/onlineuser.php" style="text-decoration: none">Online Acmers</a>	<br>
+		<!-- /onlineuser.php-->
+		
+		<a href="/forum" style="text-decoration: none">Forum | </a><a href="/discuss/public/list.php" style="text-decoration: none">Discuss</a><br>
+		<a href="/statistic/submit_graph.php" style="text-decoration: none">Statistical Charts</a><br>
+		</td>
+		<td width=20% valign=top>
+		<form action="/search.php" method=get>
+		<a href="/listproblem.php?vol=1" style="text-decoration: none">Problem Archive</a><br/>
+		<!--<a href="http://feeds.feedburner.com/Hdoj-problemset"><img src="/images/rss1.jpg" alt="problemset" style="vertical-align:text-bottom;"width=20 height=20></a><br>-->
+		<!--
+			 <a href="/submit.php">Submit Solution</a><br>
+		-->	
+		<a href="/status.php" style="text-decoration: none">Realtime Judge Status</a><br>
+
+		<a href="/ranklist.php" style="text-decoration: none">Authors Ranklist</a><br>
+		<input name=field value=author type=hidden><input class=text60 name=key>&nbsp;<input class=button40 type=submit value=Search>
+		
+		<!--
+			<input name=field value=problem type=hidden><input class=text60 name=key>&nbsp;<input class=button40 type=submit value=Search>
+		-->
+		</form>
+		</td>
+		<td width=20% valign=top>
+		 <form action='/search.php' method=get> 
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none" href="http://code.hdu.edu.cn/">C/C++/Java Exams &nbsp;&nbsp;&nbsp;&nbsp;</a><br/>
+		<a style="text-decoration: none" href="/game">ACM Steps</a><br/>
+		<a href = "/ITJobs/">Go to Job</a><br/>	
+		<a href="/livecast" style="text-decoration: none">Contest LiveCast</a><br/>
+		<a style="text-decoration: none" href="/region">ICPC@China</a><br/>
+		<!-- <a href="/register.php">Register New Author</a><br> -->
+		<!-- <a href="/modifyuser.php">Update Your Information</a><br> -->
+		</form>
+		</td>
+		<td width=20% valign=top>
+		<a href="http://bestcoder.hdu.edu.cn" style="text-decoration: none; color: red; font-weight: bold;">Best Coder <sup style="color: gray;">beta</sup></a><br/><a href="/vip/contest_list.php" style="text-decoration: none">VIP</a> | <a href="/contests/contest_list.php" style="text-decoration: none">STD Contests</a><br /><a href="http://code.hdu.edu.cn/vcontest" style="text-decoration: none">Virtual Contests </a><br/>&nbsp;&nbsp;<a href="/diy/contest_list.php" style="text-decoration: none">&nbsp;&nbsp;DIY | </a><a href="/webcontest" style="text-decoration: none"><font color="">Web-DIY</font> <font size=1 color="gray"><sup>beta</sup></font></a><br/><a style="text-decoration: none" href="/recentcontest">Recent Contests</a><br/>		</td>
+		<td width=20%>
+					<form method=post action="/userloginex.php?action=login">
+			  <table width=168 border=0 align=center cellspacing=0>
+			  	<tr><td align=center colspan=2><a href="/qqlogin/oauth/login.php"><img src="/qqlogin/images/qqlogin.png" border="0" /></a></td></tr>
+				<tr><td width=68>Author ID&nbsp;</td><td align=right><input name=username type=text class=text90 maxlength=20></td></tr>
+				<tr><td>Password&nbsp;</td><td align=right><input name=userpass type=password class=text90 maxlength=20></td></tr>
+			  </table>
+			  <input name=login type=submit class=button40 value="Sign In">&nbsp;<a href="http://bestcoder.hdu.edu.cn/register.php?url=acm.hdu.edu.cn/userloginex.php?action=login" style="text-decoration: none">Register new ID</a>
+			</form>
+						</td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td>
+		<div align=center id=rollword><marquee scrollamount=2 width=600 scrolldelay=30 onMouseOver="javascript:this.stop();" onMouseOut="javascript:this.start();"><b style="margin-right:20px"><br/><a href="http://bestcoder.hdu.edu.cn/contests/contest_list.php" style="color:red" >????μ????????????BestCoder?????????</a><br/>
+</b></marquee></div>	</td>
+</tr>
+<script language="javascript">
+function p(color,pid,solved,title,ac,sub)
+{
+	var item;
+	var ratio;
+
+	if(color)
+		color = " bgcolor=#D7EBFF";
+	else
+		color = "";
+
+	if(sub > 0)
+	{
+		ratio = (ac * 100 / sub + 0.005).toString();
+		ratio = ratio.substring(0, ratio.indexOf('.') + 3);
+	}
+	else
+		ratio = '0.00';
+
+	document.write("<tr" + color + " align=center height=22>");
+	if(solved == 0)
+		document.write("<td></td>");
+	else if(solved == 5)
+		document.write("<td><img src=\"images/ac.gif\" width=16 height=16 alt=\"\n\tYou has solved this problem :-)\t\n\"></td>");
+	else if(solved == 6)
+		document.write("<td><img src=\"images/tried.gif\" width=16 height=16 alt=\"\n\tYou has tried this problem but hasn't solved it :-(\t\n\"></td>");
+	document.write("<td>" + pid + "</td><td align=left><a href=\"showproblem.php?pid=" + pid + "\">&nbsp;" + title + "</a></td><td>" + ratio + "%(<a href=\"status.php?pid=" + pid + "&status=5\">" + ac + "</a>/<a href=\"status.php?pid=" + pid + "\">" + sub + "</a>)</td></tr>");
+}
+</script>
+<tr><td><h1 style="color:#1A5CC8" align=center></h1><p class=footer_link><font size=3><a href=listproblem.php?vol=1 style="margin:5px">1</a><a href=listproblem.php?vol=2 style="margin:5px">2</a><a href=listproblem.php?vol=3 style="margin:5px">3</a><a href=listproblem.php?vol=4 style="margin:5px">4</a><a href=listproblem.php?vol=5 style="margin:5px">5</a><a href=listproblem.php?vol=6 style="margin:5px">6</a><a href=listproblem.php?vol=7 style="margin:5px">7</a><a href=listproblem.php?vol=8 style="margin:5px">8</a><a href=listproblem.php?vol=9 style="margin:5px">9</a><a href=listproblem.php?vol=10 style="margin:5px">10</a><a href=listproblem.php?vol=11 style="margin:5px">11</a><a style="color:red;" href=listproblem.php?vol=12 style="margin:5px">12</a><a href=listproblem.php?vol=13 style="margin:5px">13</a><a href=listproblem.php?vol=14 style="margin:5px">14</a><a href=listproblem.php?vol=15 style="margin:5px">15</a><a href=listproblem.php?vol=16 style="margin:5px">16</a><a href=listproblem.php?vol=17 style="margin:5px">17</a><a href=listproblem.php?vol=18 style="margin:5px">18</a><a href=listproblem.php?vol=19 style="margin:5px">19</a><a href=listproblem.php?vol=20 style="margin:5px">20</a><a href=listproblem.php?vol=21 style="margin:5px">21</a><a href=listproblem.php?vol=22 style="margin:5px">22</a><a href=listproblem.php?vol=23 style="margin:5px">23</a><a href=listproblem.php?vol=24 style="margin:5px">24</a><a href=listproblem.php?vol=25 style="margin:5px">25</a><a href=listproblem.php?vol=26 style="margin:5px">26</a><a href=listproblem.php?vol=27 style="margin:5px">27</a><a href=listproblem.php?vol=28 style="margin:5px">28</a><a href=listproblem.php?vol=29 style="margin:5px">29</a><a href=listproblem.php?vol=30 style="margin:5px">30</a><a href=listproblem.php?vol=31 style="margin:5px">31</a><a href=listproblem.php?vol=32 style="margin:5px">32</a><a href=listproblem.php?vol=33 style="margin:5px">33</a><a href=listproblem.php?vol=34 style="margin:5px">34</a><a href=listproblem.php?vol=35 style="margin:5px">35</a><a href=listproblem.php?vol=36 style="margin:5px">36</a><a href=listproblem.php?vol=37 style="margin:5px">37</a><a href=listproblem.php?vol=38 style="margin:5px">38</a><br /><a href=listproblem.php?vol=39 style="margin:5px">39</a><a href=listproblem.php?vol=40 style="margin:5px">40</a><a href=listproblem.php?vol=41 style="margin:5px">41</a><a href=listproblem.php?vol=42 style="margin:5px">42</a><a href=listproblem.php?vol=43 style="margin:5px">43</a><a href=listproblem.php?vol=44 style="margin:5px">44</a></font></p><form method="post" action="./search.php?action=listproblem">
+	<table align="left" cellpadding="0px" cellspacing="0px">
+		<tr style="height:24px;">
+			<td style="width:55px;color:#1A5CC8;font-size:18px" >
+				Search:
+			</td>
+			<td  >
+				<input type="text" name="content"  style="width:230px">
+			</td>
+			<td width="20px" align="center">
+				In
+			</td>
+			<td style="width:103px">
+				<select name="searchmode"  style="margin:-1px;width:100px;font-family:Arial;font-size:14px;height:22px">
+					<option value="title">Title</option>
+					<option value="source">Source</option>
+					<option value="author">Author</option>
+				</select>
+			</td>
+			<td style="width:60px" align="center">
+				<input type="submit" value="Go" style="width:55px;height:22px;margin-top:-0px">
+			</td>
+		</tr>
+	</table>
+</form>
+<br>
+<br>
+</td>
+</tr>
+<tr>
+<td>
+<table width=100% border=0 cellspacing=2 class=table_text><tr align=center class=table_header height=22><td width=50>Pro. ID</td><td>Problem Title</td><td width=180>Ratio(Accepted/Submissions)</td></tr><script language="javascript">p(0,2100,-1,"Lovekey",2243,6879);p(1,2101,-1,"A + B Problem Too",10133,13637);p(0,2102,-1,"A???",3296,13354);p(1,2103,-1,"Family planning",2237,8641);p(0,2104,-1,"hide handkerchief",1583,3342);p(1,2105,-1,"The Center of Gravity",2772,4834);p(0,2106,-1,"decimal system",2209,3909);p(1,2107,-1,"Founding of HDU",5169,7629);p(0,2108,-1,"Shape of HDU",2738,5972);p(1,2109,-1,"Fighting for HDU",4202,8114);p(0,2110,-1,"Crisis of HDU",1179,4196);p(1,2111,-1,"Saving HDU",3162,6854);p(0,2112,-1,"HDU Today",4542,19320);p(1,2113,-1,"Secret Number",3858,9063);p(0,2114,-1,"Calculate S(n)",3297,9037);p(1,2115,-1,"I Love This Game",2206,6455);p(0,2116,-1,"Has the sum exceeded",827,3905);p(1,2117,-1,"Just a Numble",1272,2644);p(0,2118,-1,"Mouse",128,638);p(1,2119,-1,"Matrix",976,2206);p(0,2120,-1,"Ice_cream's world I",510,873);p(1,2121,-1,"Ice_cream??s world II",855,3557);p(0,2122,-1,"Ice_cream??s world III",402,1220);p(1,2123,-1,"An easy problem",4388,6320);p(0,2124,-1,"Repair the Wall",1351,2790);p(1,2125,-1,"Local area network",160,568);p(0,2126,-1,"Buy the souvenirs",556,1536);p(1,2127,-1,"Polish notation",46,222);p(0,2128,-1,"Tempter of the Bone II",494,1861);p(1,2129,-1,"Give the rank",63,285);p(0,2130,-1,"Count the cuboids",165,325);p(1,2131,-1,"Probability",2739,5490);p(0,2132,-1,"An easy problem",2866,10682);p(1,2133,-1,"What day is it",1270,4343);p(0,2134,-1,"Cuts the cake",1854,2916);p(1,2135,-1,"Rolling table",1051,2169);p(0,2136,-1,"Largest prime factor",3067,8654);p(1,2137,-1,"circumgyrate the string",1110,4762);p(0,2138,-1,"How many prime numbers",4851,13989);p(1,2139,-1,"Calculate the formula",2417,7817);p(0,2140,-1,"Michael Scofield's letter",2070,3582);p(1,2141,-1,"Can you find it?",4489,17786);p(0,2142,-1,"disney",206,809);p(1,2143,-1,"box",1618,7818);p(0,2144,-1,"Evolution",167,683);p(1,2145,-1,"zz's Mysterious Present",339,1548);p(0,2146,-1,"The most binary substring",275,1209);p(1,2147,-1,"kiki's game",4903,8247);p(0,2148,-1,"Score",3344,5184);p(1,2149,-1,"Public Sale",3395,5801);p(0,2150,-1,"Pipe",557,1478);p(1,2151,-1,"Worm",2107,3267);p(0,2152,-1,"Fruit",2227,3918);p(1,2153,-1,"?????????",2861,6237);p(0,2154,-1,"?????",1951,4120);p(1,2155,-1,"С????????",223,1134);p(0,2156,-1,"????????",3238,5456);p(1,2157,-1,"How many ways??",765,2092);p(0,2158,-1,"???????????????",289,817);p(1,2159,-1,"FATE",4671,9878);p(0,2160,-1,"???????",4778,7740);p(1,2161,-1,"Primes",3841,9157);p(0,2162,-1,"Add ??em",2349,3233);p(1,2163,-1,"Palindromes",1984,3408);p(0,2164,-1," Rock, Paper, or Scissors?",1473,2299);p(1,2165,-1,"Missile Command",2,67);p(0,2166,-1,"Palindromic Primes Category in Jeopardy!",40,240);p(1,2167,-1,"Pebbles",773,1348);p(0,2168,-1,"Rubik's Cube",31,74);p(1,2169,-1," Geek Challenge [SKRZAT] (Base Minus Two)",155,339);p(0,2170,-1,"Frogger",27,112);p(1,2171,-1," ??Bubble Gum, Bubble Gum, in the dish, how many pieces do you wish???",157,407);p(0,2172,-1,"Games R Us",17,59);p(1,2173,-1,"Cover Up",45,120);p(0,2174,-1,"Bridged Marble Rings",77,197);p(1,2175,-1,"?????IX",605,989);p(0,2176,-1,"?(m??)??????",1273,2197);p(1,2177,-1,"?(2??)??????",886,1486);p(0,2178,-1,"??????",2918,4082);p(1,2179,-1,"pi",360,698);p(0,2180,-1,"???",242,798);p(1,2181,-1,"?????????????????",1258,1972);p(0,2182,-1,"Frog",378,789);p(1,2183,-1,"?????????(II)",339,529);p(0,2184,-1,"?????VIII",180,299);p(1,2185,-1,"Chess",138,313);p(0,2186,-1,"????512??????????????????????????????",5101,8219);p(1,2187,-1,"????512?????????????????????????????",4197,10041);p(0,2188,-1,"????512?????????????????????????",4312,6832);p(1,2189,-1,"????512???????????????????????????",1444,2929);p(0,2190,-1,"????512????????????????????????С? ",3450,5151);p(1,2191,-1,"????512???????????????????????????ж?????",8140,19229);p(0,2192,-1,"MagicBuilding",819,1836);p(1,2193,-1,"AVL Tree",190,405);p(0,2194,-1,"Help the vendor and get some M ^_^",125,261);p(1,2195,-1,"Monotone SE Min",96,202);p(0,2196,-1,"Computer",2216,4399);p(1,2197,-1,"?????",301,908);p(0,2198,-1,"How many elements you must throw out?",162,427);p(1,2199,-1,"Can you solve this equation?",5943,13298);</script></table><p class=footer_link><font size=3><a href=listproblem.php?vol=1 style="margin:5px">1</a><a href=listproblem.php?vol=2 style="margin:5px">2</a><a href=listproblem.php?vol=3 style="margin:5px">3</a><a href=listproblem.php?vol=4 style="margin:5px">4</a><a href=listproblem.php?vol=5 style="margin:5px">5</a><a href=listproblem.php?vol=6 style="margin:5px">6</a><a href=listproblem.php?vol=7 style="margin:5px">7</a><a href=listproblem.php?vol=8 style="margin:5px">8</a><a href=listproblem.php?vol=9 style="margin:5px">9</a><a href=listproblem.php?vol=10 style="margin:5px">10</a><a href=listproblem.php?vol=11 style="margin:5px">11</a><a style="color:red;" href=listproblem.php?vol=12 style="margin:5px">12</a><a href=listproblem.php?vol=13 style="margin:5px">13</a><a href=listproblem.php?vol=14 style="margin:5px">14</a><a href=listproblem.php?vol=15 style="margin:5px">15</a><a href=listproblem.php?vol=16 style="margin:5px">16</a><a href=listproblem.php?vol=17 style="margin:5px">17</a><a href=listproblem.php?vol=18 style="margin:5px">18</a><a href=listproblem.php?vol=19 style="margin:5px">19</a><a href=listproblem.php?vol=20 style="margin:5px">20</a><a href=listproblem.php?vol=21 style="margin:5px">21</a><a href=listproblem.php?vol=22 style="margin:5px">22</a><a href=listproblem.php?vol=23 style="margin:5px">23</a><a href=listproblem.php?vol=24 style="margin:5px">24</a><a href=listproblem.php?vol=25 style="margin:5px">25</a><a href=listproblem.php?vol=26 style="margin:5px">26</a><a href=listproblem.php?vol=27 style="margin:5px">27</a><a href=listproblem.php?vol=28 style="margin:5px">28</a><a href=listproblem.php?vol=29 style="margin:5px">29</a><a href=listproblem.php?vol=30 style="margin:5px">30</a><a href=listproblem.php?vol=31 style="margin:5px">31</a><a href=listproblem.php?vol=32 style="margin:5px">32</a><a href=listproblem.php?vol=33 style="margin:5px">33</a><a href=listproblem.php?vol=34 style="margin:5px">34</a><a href=listproblem.php?vol=35 style="margin:5px">35</a><a href=listproblem.php?vol=36 style="margin:5px">36</a><a href=listproblem.php?vol=37 style="margin:5px">37</a><a href=listproblem.php?vol=38 style="margin:5px">38</a><br /><a href=listproblem.php?vol=39 style="margin:5px">39</a><a href=listproblem.php?vol=40 style="margin:5px">40</a><a href=listproblem.php?vol=41 style="margin:5px">41</a><a href=listproblem.php?vol=42 style="margin:5px">42</a><a href=listproblem.php?vol=43 style="margin:5px">43</a><a href=listproblem.php?vol=44 style="margin:5px">44</a></font></p><br></td></tr><tr>
+<td>
+	<table style="border:#1A5CC8 1px solid; font-size:14px" cellSpacing=0 cellPadding=1 width=100%>
+	<tr align=center>
+		<td class=footer_link height=45><a href="/">Home</a> | <a href=#top>Top</a></td>
+		<td style="padding:6px">
+			Hangzhou Dianzi University Online Judge 3.0<br>
+			Copyright &copy; 2005-2015 <a href=mailto:acm@hdu.edu.cn>HDU ACM Team</a>. All Rights Reserved.<br>
+			<a href="../about_us/developer.php">Designer & Developer </a>: <a>Wang Rongtao</a>&nbsp<a>LinLe</a>&nbsp<a href=mailto:gjavac@gmail.com >GaoJie</a>&nbsp<a href=mailto:gl8997@gmail.com >GanLu</a><br>
+			<span class=pagerunstatus>Total 0.004000(s) query 3, Server time : 2015-08-12 21:06:13, Gzip disabled</span>		</td>
+		<td class=footer_link>
+			<!-- <a href="javascript:history.go(-1);">Back</a> | <a href="javascript:history.forward();">Forward</a>-->
+			<a href="/admin">Administration</a>	
+		</td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+	var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cspan id='cnzz_stat_icon_1254072405'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1254072405%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+	document.getElementById('cnzz_stat_icon_1254072405').style.display = 'none';
+</script>
+</body></html>

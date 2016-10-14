@@ -1,0 +1,6 @@
+G:\ACM\OJ\Test\修改oj主页的反斜杠问题\bin\Debug\修改oj主页的反斜杠问题.exe.config
+G:\ACM\OJ\Test\修改oj主页的反斜杠问题\bin\Debug\修改oj主页的反斜杠问题.exe
+G:\ACM\OJ\Test\修改oj主页的反斜杠问题\bin\Debug\修改oj主页的反斜杠问题.pdb
+G:\ACM\OJ\Test\修改oj主页的反斜杠问题\obj\Debug\修改oj主页的反斜杠问题.csprojResolveAssemblyReference.cache
+G:\ACM\OJ\Test\修改oj主页的反斜杠问题\obj\Debug\修改oj主页的反斜杠问题.exe
+G:\ACM\OJ\Test\修改oj主页的反斜杠问题\obj\Debug\修改oj主页的反斜杠问题.pdb

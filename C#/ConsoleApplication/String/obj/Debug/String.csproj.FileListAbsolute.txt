@@ -1,0 +1,6 @@
+K:\Code\C#\ConsoleApplication\String\bin\Debug\String.exe.config
+K:\Code\C#\ConsoleApplication\String\bin\Debug\String.exe
+K:\Code\C#\ConsoleApplication\String\bin\Debug\String.pdb
+K:\Code\C#\ConsoleApplication\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+K:\Code\C#\ConsoleApplication\String\obj\Debug\String.exe
+K:\Code\C#\ConsoleApplication\String\obj\Debug\String.pdb

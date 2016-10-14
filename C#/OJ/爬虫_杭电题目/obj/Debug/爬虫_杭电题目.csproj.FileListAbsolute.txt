@@ -1,0 +1,12 @@
+G:\ACM\OJ\爬虫_杭电题目\bin\Debug\爬虫_杭电题目.exe.config
+G:\ACM\OJ\爬虫_杭电题目\bin\Debug\爬虫_杭电题目.exe
+G:\ACM\OJ\爬虫_杭电题目\bin\Debug\爬虫_杭电题目.pdb
+G:\ACM\OJ\爬虫_杭电题目\obj\Debug\爬虫_杭电题目.csprojResolveAssemblyReference.cache
+G:\ACM\OJ\爬虫_杭电题目\obj\Debug\爬虫_杭电题目.exe
+G:\ACM\OJ\爬虫_杭电题目\obj\Debug\爬虫_杭电题目.pdb
+K:\Code\C#\OJ\爬虫_杭电题目\bin\Debug\爬虫_杭电题目.exe.config
+K:\Code\C#\OJ\爬虫_杭电题目\obj\Debug\爬虫_杭电题目.exe
+K:\Code\C#\OJ\爬虫_杭电题目\obj\Debug\爬虫_杭电题目.pdb
+K:\Code\C#\OJ\爬虫_杭电题目\bin\Debug\爬虫_杭电题目.exe
+K:\Code\C#\OJ\爬虫_杭电题目\bin\Debug\爬虫_杭电题目.pdb
+K:\Code\C#\OJ\爬虫_杭电题目\obj\Debug\爬虫_杭电题目.csprojResolveAssemblyReference.cache

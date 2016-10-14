@@ -1,0 +1,12 @@
+K:\NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\bin\Debug\jtahstu_akoj轰炸机.exe.config
+K:\NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\bin\Debug\jtahstu_akoj轰炸机.exe
+K:\NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\bin\Debug\jtahstu_akoj轰炸机.pdb
+K:\NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\obj\Debug\jtahstu_akoj轰炸机.csprojResolveAssemblyReference.cache
+K:\NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\obj\Debug\jtahstu_akoj轰炸机.exe
+K:\NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\obj\Debug\jtahstu_akoj轰炸机.pdb
+K:\ASP.NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\bin\Debug\jtahstu_akoj轰炸机.exe.config
+K:\ASP.NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\obj\Debug\jtahstu_akoj轰炸机.exe
+K:\ASP.NET\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\obj\Debug\jtahstu_akoj轰炸机.pdb
+K:\Code\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\bin\Debug\jtahstu_akoj轰炸机.exe.config
+K:\Code\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\obj\Debug\jtahstu_akoj轰炸机.exe
+K:\Code\黑科技\博客空炸鸡\jtahstu_akoj轰炸机\obj\Debug\jtahstu_akoj轰炸机.pdb

@@ -1,0 +1,6 @@
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\文章自动添加\bin\Debug\文章自动添加.exe.config
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\文章自动添加\obj\Debug\文章自动添加.csprojResolveAssemblyReference.cache
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\文章自动添加\bin\Debug\文章自动添加.exe
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\文章自动添加\bin\Debug\文章自动添加.pdb
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\文章自动添加\obj\Debug\文章自动添加.exe
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\文章自动添加\obj\Debug\文章自动添加.pdb

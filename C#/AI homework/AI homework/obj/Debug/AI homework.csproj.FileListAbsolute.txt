@@ -1,0 +1,6 @@
+d:\Users\Administrator\Documents\visual studio 2013\Projects\AI homework\AI homework\bin\Debug\AI homework.exe.config
+d:\Users\Administrator\Documents\visual studio 2013\Projects\AI homework\AI homework\bin\Debug\AI homework.exe
+d:\Users\Administrator\Documents\visual studio 2013\Projects\AI homework\AI homework\bin\Debug\AI homework.pdb
+d:\Users\Administrator\Documents\visual studio 2013\Projects\AI homework\AI homework\obj\Debug\AI homework.csprojResolveAssemblyReference.cache
+d:\Users\Administrator\Documents\visual studio 2013\Projects\AI homework\AI homework\obj\Debug\AI homework.exe
+d:\Users\Administrator\Documents\visual studio 2013\Projects\AI homework\AI homework\obj\Debug\AI homework.pdb

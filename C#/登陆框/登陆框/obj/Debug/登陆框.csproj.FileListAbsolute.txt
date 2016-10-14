@@ -1,0 +1,12 @@
+K:\Code\C#\登陆框\登陆框\bin\Debug\登陆框.exe.config
+K:\Code\C#\登陆框\登陆框\bin\Debug\登陆框.exe
+K:\Code\C#\登陆框\登陆框\bin\Debug\登陆框.pdb
+K:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.csprojResolveAssemblyReference.cache
+K:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.Form1.resources
+K:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.Properties.Resources.resources
+K:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.csproj.GenerateResource.Cache
+K:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.exe
+K:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.pdb
+H:\Code\C#\登陆框\登陆框\bin\Debug\登陆框.exe.config
+H:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.exe
+H:\Code\C#\登陆框\登陆框\obj\Debug\登陆框.pdb

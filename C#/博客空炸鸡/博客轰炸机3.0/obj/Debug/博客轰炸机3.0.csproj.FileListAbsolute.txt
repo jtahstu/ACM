@@ -1,0 +1,14 @@
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\bin\Debug\博客轰炸机3.0.exe.config
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3.0.csprojResolveAssemblyReference.cache
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3._0.Properties.Resources.resources
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3.0.csproj.GenerateResource.Cache
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\bin\Debug\博客轰炸机3.0.exe
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\bin\Debug\博客轰炸机3.0.pdb
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3.0.exe
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3.0.pdb
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3._0.Form1.resources
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3._0.One.resources
+K:\Code\黑科技\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3._0.Two.resources
+H:\Code\博客空炸鸡\博客轰炸机3.0\bin\Debug\博客轰炸机3.0.exe.config
+H:\Code\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3.0.exe
+H:\Code\博客空炸鸡\博客轰炸机3.0\obj\Debug\博客轰炸机3.0.pdb

@@ -1,0 +1,7 @@
+G:\Code\CSharp入门经典\控制台_1\bin\Debug\控制台_1.exe.config
+K:\Code\CSharp入门经典\控制台_1\bin\Debug\控制台_1.exe.config
+K:\Code\CSharp入门经典\控制台_1\bin\Debug\控制台_1.exe
+K:\Code\CSharp入门经典\控制台_1\bin\Debug\控制台_1.pdb
+K:\Code\CSharp入门经典\控制台_1\obj\Debug\控制台_1.csprojResolveAssemblyReference.cache
+K:\Code\CSharp入门经典\控制台_1\obj\Debug\控制台_1.exe
+K:\Code\CSharp入门经典\控制台_1\obj\Debug\控制台_1.pdb

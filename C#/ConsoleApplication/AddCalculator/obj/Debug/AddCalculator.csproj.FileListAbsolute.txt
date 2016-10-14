@@ -1,0 +1,9 @@
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\bin\Debug\AddCalculator.exe.config
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\bin\Debug\AddCalculator.exe
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\bin\Debug\AddCalculator.pdb
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\obj\Debug\AddCalculator.csprojResolveAssemblyReference.cache
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\obj\Debug\AddCalculator.Properties.Resources.resources
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\obj\Debug\AddCalculator.csproj.GenerateResource.Cache
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\obj\Debug\AddCalculator.exe
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\obj\Debug\AddCalculator.pdb
+d:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication\AddCalculator\obj\Debug\AddCalculator.Calculator.resources

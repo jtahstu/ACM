@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCalculator", "AddCalculator\AddCalculator.csproj", "{0CA4D726-B208-4165-B8F3-4415ABB958AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "目录测试", "目录测试\目录测试.csproj", "{07A1439A-16AE-4F2D-8DDD-185F47A7C39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{7FB3194F-2BCC-4D2F-8978-3C2B28D02A1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "传智视频代码", "传智视频代码", "{493D2ADF-AC88-4768-A906-966357103AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "播放器项目", "..\..\..\C#\传智C#基础班\基础加强总复习2.Net基础全套视频教程2014版（第二十一天）\资料\0505.Net基础班第二十一天\播放器项目\播放器项目.csproj", "{E1C79CF2-2048-42C0-8F64-5960B98FBB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA4D726-B208-4165-B8F3-4415ABB958AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA4D726-B208-4165-B8F3-4415ABB958AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA4D726-B208-4165-B8F3-4415ABB958AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA4D726-B208-4165-B8F3-4415ABB958AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A1439A-16AE-4F2D-8DDD-185F47A7C39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A1439A-16AE-4F2D-8DDD-185F47A7C39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A1439A-16AE-4F2D-8DDD-185F47A7C39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A1439A-16AE-4F2D-8DDD-185F47A7C39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB3194F-2BCC-4D2F-8978-3C2B28D02A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB3194F-2BCC-4D2F-8978-3C2B28D02A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB3194F-2BCC-4D2F-8978-3C2B28D02A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB3194F-2BCC-4D2F-8978-3C2B28D02A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C79CF2-2048-42C0-8F64-5960B98FBB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C79CF2-2048-42C0-8F64-5960B98FBB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C79CF2-2048-42C0-8F64-5960B98FBB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C79CF2-2048-42C0-8F64-5960B98FBB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E1C79CF2-2048-42C0-8F64-5960B98FBB84} = {493D2ADF-AC88-4768-A906-966357103AD5}
+	EndGlobalSection
+EndGlobal

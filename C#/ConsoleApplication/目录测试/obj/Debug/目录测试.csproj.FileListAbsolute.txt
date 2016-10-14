@@ -1,0 +1,5 @@
+K:\Code\C#\ConsoleApplication\目录测试\bin\Debug\目录测试.exe.config
+K:\Code\C#\ConsoleApplication\目录测试\bin\Debug\目录测试.exe
+K:\Code\C#\ConsoleApplication\目录测试\bin\Debug\目录测试.pdb
+K:\Code\C#\ConsoleApplication\目录测试\obj\Debug\目录测试.exe
+K:\Code\C#\ConsoleApplication\目录测试\obj\Debug\目录测试.pdb

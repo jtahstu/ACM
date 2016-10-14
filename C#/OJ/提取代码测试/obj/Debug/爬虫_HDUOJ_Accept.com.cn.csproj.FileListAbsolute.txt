@@ -1,0 +1,6 @@
+G:\ACM\OJ\提取代码测试\bin\Debug\提取代码测试.exe.config
+G:\ACM\OJ\提取代码测试\obj\Debug\提取代码测试.exe
+G:\ACM\OJ\提取代码测试\obj\Debug\提取代码测试.pdb
+G:\ACM\OJ\提取代码测试\bin\Debug\提取代码测试.exe
+G:\ACM\OJ\提取代码测试\bin\Debug\提取代码测试.pdb
+G:\ACM\OJ\提取代码测试\obj\Debug\爬虫_HDUOJ_Accept.com.cn.csprojResolveAssemblyReference.cache

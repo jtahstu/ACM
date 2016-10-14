@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "博客空炸鸡_固定连接", "博客空炸鸡_固定连接\博客空炸鸡_固定连接.csproj", "{B93CA619-4F5A-4A5F-A2B9-31021B3A6F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "博客空炸鸡_自定义链接", "博客空炸鸡_自定义链接\博客空炸鸡_自定义链接.csproj", "{DA9C6507-B469-4F55-895C-DECB73E554A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jtahstu_akoj轰炸机", "jtahstu_akoj轰炸机\jtahstu_akoj轰炸机.csproj", "{240E5BAB-5FD1-4179-BE09-D1029ED3FE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "博客轰炸机2.0", "博客轰炸机2.0\博客轰炸机2.0.csproj", "{7CE98DB1-CB1E-46E7-9EA7-7E8D37AD8373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "博客轰炸机3.0", "博客轰炸机3.0\博客轰炸机3.0.csproj", "{853816A6-9D0C-44CF-973A-18675AA81EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93CA619-4F5A-4A5F-A2B9-31021B3A6F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93CA619-4F5A-4A5F-A2B9-31021B3A6F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93CA619-4F5A-4A5F-A2B9-31021B3A6F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93CA619-4F5A-4A5F-A2B9-31021B3A6F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9C6507-B469-4F55-895C-DECB73E554A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9C6507-B469-4F55-895C-DECB73E554A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9C6507-B469-4F55-895C-DECB73E554A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9C6507-B469-4F55-895C-DECB73E554A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240E5BAB-5FD1-4179-BE09-D1029ED3FE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240E5BAB-5FD1-4179-BE09-D1029ED3FE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240E5BAB-5FD1-4179-BE09-D1029ED3FE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240E5BAB-5FD1-4179-BE09-D1029ED3FE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE98DB1-CB1E-46E7-9EA7-7E8D37AD8373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE98DB1-CB1E-46E7-9EA7-7E8D37AD8373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE98DB1-CB1E-46E7-9EA7-7E8D37AD8373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE98DB1-CB1E-46E7-9EA7-7E8D37AD8373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853816A6-9D0C-44CF-973A-18675AA81EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853816A6-9D0C-44CF-973A-18675AA81EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853816A6-9D0C-44CF-973A-18675AA81EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853816A6-9D0C-44CF-973A-18675AA81EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

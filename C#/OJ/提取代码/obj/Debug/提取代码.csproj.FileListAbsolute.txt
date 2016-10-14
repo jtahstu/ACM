@@ -1,0 +1,6 @@
+G:\ACM\OJ\提取代码\bin\Debug\提取代码.exe.config
+G:\ACM\OJ\提取代码\bin\Debug\提取代码.exe
+G:\ACM\OJ\提取代码\bin\Debug\提取代码.pdb
+G:\ACM\OJ\提取代码\obj\Debug\提取代码.csprojResolveAssemblyReference.cache
+G:\ACM\OJ\提取代码\obj\Debug\提取代码.exe
+G:\ACM\OJ\提取代码\obj\Debug\提取代码.pdb

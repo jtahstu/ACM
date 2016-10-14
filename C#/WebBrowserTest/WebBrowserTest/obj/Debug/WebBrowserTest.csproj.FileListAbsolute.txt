@@ -1,0 +1,9 @@
+K:\Code\C#\WebBrowserTest\WebBrowserTest\bin\Debug\WebBrowserTest.exe.config
+K:\Code\C#\WebBrowserTest\WebBrowserTest\bin\Debug\WebBrowserTest.exe
+K:\Code\C#\WebBrowserTest\WebBrowserTest\bin\Debug\WebBrowserTest.pdb
+K:\Code\C#\WebBrowserTest\WebBrowserTest\obj\Debug\WebBrowserTest.csprojResolveAssemblyReference.cache
+K:\Code\C#\WebBrowserTest\WebBrowserTest\obj\Debug\WebBrowserTest.Form1.resources
+K:\Code\C#\WebBrowserTest\WebBrowserTest\obj\Debug\WebBrowserTest.Properties.Resources.resources
+K:\Code\C#\WebBrowserTest\WebBrowserTest\obj\Debug\WebBrowserTest.csproj.GenerateResource.Cache
+K:\Code\C#\WebBrowserTest\WebBrowserTest\obj\Debug\WebBrowserTest.exe
+K:\Code\C#\WebBrowserTest\WebBrowserTest\obj\Debug\WebBrowserTest.pdb

@@ -1,0 +1,6 @@
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\bin\Debug\博客笔记自动生成.exe.config
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\bin\Debug\博客笔记自动生成.exe
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\bin\Debug\博客笔记自动生成.pdb
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\obj\Debug\博客笔记自动生成.exe
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\obj\Debug\博客笔记自动生成.pdb
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\博客笔记自动生成\obj\Debug\博客笔记自动生成.csprojResolveAssemblyReference.cache

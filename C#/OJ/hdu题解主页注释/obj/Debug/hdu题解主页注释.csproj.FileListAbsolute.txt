@@ -1,0 +1,6 @@
+G:\ACM\OJ\hdu题解主页注释\bin\Debug\hdu题解主页注释.exe.config
+G:\ACM\OJ\hdu题解主页注释\bin\Debug\hdu题解主页注释.exe
+G:\ACM\OJ\hdu题解主页注释\bin\Debug\hdu题解主页注释.pdb
+G:\ACM\OJ\hdu题解主页注释\obj\Debug\hdu题解主页注释.csprojResolveAssemblyReference.cache
+G:\ACM\OJ\hdu题解主页注释\obj\Debug\hdu题解主页注释.exe
+G:\ACM\OJ\hdu题解主页注释\obj\Debug\hdu题解主页注释.pdb

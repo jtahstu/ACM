@@ -1,0 +1,5 @@
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\总结自动添加\bin\Debug\总结自动添加.exe.config
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\总结自动添加\bin\Debug\总结自动添加.exe
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\总结自动添加\bin\Debug\总结自动添加.pdb
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\总结自动添加\obj\Debug\总结自动添加.exe
+D:\Users\Administrator\Documents\visual studio 2013\Projects\CSharp\CSharp\总结自动添加\obj\Debug\总结自动添加.pdb

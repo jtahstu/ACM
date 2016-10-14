@@ -1,0 +1,9 @@
+G:\ACM\OJ\爬虫\bin\Debug\爬虫.exe.config
+G:\ACM\OJ\爬虫\bin\Debug\爬虫.exe
+G:\ACM\OJ\爬虫\bin\Debug\爬虫.pdb
+G:\ACM\OJ\爬虫\obj\Debug\爬虫.csprojResolveAssemblyReference.cache
+G:\ACM\OJ\爬虫\obj\Debug\爬虫.exe
+G:\ACM\OJ\爬虫\obj\Debug\爬虫.pdb
+K:\Code\C#\OJ\爬虫\bin\Debug\爬虫.exe.config
+K:\Code\C#\OJ\爬虫\obj\Debug\爬虫.exe
+K:\Code\C#\OJ\爬虫\obj\Debug\爬虫.pdb

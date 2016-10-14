@@ -1,0 +1,11 @@
+J:\Code\C#\test\test\bin\Debug\test.exe.config
+J:\Code\C#\test\test\bin\Debug\test.exe
+J:\Code\C#\test\test\bin\Debug\test.pdb
+J:\Code\C#\test\test\obj\Debug\test.exe
+J:\Code\C#\test\test\obj\Debug\test.pdb
+H:\Code\C#\test\test\bin\Debug\test.exe.config
+H:\Code\C#\test\test\obj\Debug\test.exe
+H:\Code\C#\test\test\obj\Debug\test.pdb
+H:\Code\C#\test\test\bin\Debug\test.exe
+H:\Code\C#\test\test\bin\Debug\test.pdb
+H:\Code\C#\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
